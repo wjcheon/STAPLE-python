@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b55e8326-58f4-41c0-a978-e53be7e68152" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xkWEjWj1pY7CUuZtRfw3P7N3QX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\staple" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="calConsensus_standardalone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="staple" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calConsensus_standardalone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="staple" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.calConsensus_standardalone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b55e8326-58f4-41c0-a978-e53be7e68152" name="Default Changelist" comment="" />
+      <created>1630899456732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630899456732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2823" y="60" key="#xdebugger.evaluate" timestamp="1631067304159">
+      <screen x="-3840" y="-497" width="2560" height="1400" />
+    </state>
+    <state x="-2823" y="60" key="#xdebugger.evaluate/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631067304159" />
+    <state width="2539" height="323" key="GridCell.Tab.0.bottom" timestamp="1631163892365">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="395" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631094143461" />
+    <state width="2539" height="323" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.497.1920.1040@0.0.2560.1400" timestamp="1631163892365" />
+    <state width="2539" height="323" key="GridCell.Tab.0.center" timestamp="1631163892364">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="395" key="GridCell.Tab.0.center/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631094143461" />
+    <state width="2539" height="323" key="GridCell.Tab.0.center/0.0.2560.1400/3840.497.1920.1040@0.0.2560.1400" timestamp="1631163892364" />
+    <state width="2539" height="323" key="GridCell.Tab.0.left" timestamp="1631163892364">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="395" key="GridCell.Tab.0.left/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631094143461" />
+    <state width="2539" height="323" key="GridCell.Tab.0.left/0.0.2560.1400/3840.497.1920.1040@0.0.2560.1400" timestamp="1631163892364" />
+    <state width="2539" height="323" key="GridCell.Tab.0.right" timestamp="1631163892365">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="395" key="GridCell.Tab.0.right/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631094143461" />
+    <state width="2539" height="323" key="GridCell.Tab.0.right/0.0.2560.1400/3840.497.1920.1040@0.0.2560.1400" timestamp="1631163892365" />
+    <state width="2539" height="323" key="GridCell.Tab.1.bottom" timestamp="1631163892365">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1260" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631094143441" />
+    <state width="2539" height="323" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.497.1920.1040@0.0.2560.1400" timestamp="1631163892365" />
+    <state width="2539" height="323" key="GridCell.Tab.1.center" timestamp="1631163892365">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1260" height="321" key="GridCell.Tab.1.center/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631094143441" />
+    <state width="2539" height="323" key="GridCell.Tab.1.center/0.0.2560.1400/3840.497.1920.1040@0.0.2560.1400" timestamp="1631163892365" />
+    <state width="2539" height="323" key="GridCell.Tab.1.left" timestamp="1631163892365">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1260" height="321" key="GridCell.Tab.1.left/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631094143440" />
+    <state width="2539" height="323" key="GridCell.Tab.1.left/0.0.2560.1400/3840.497.1920.1040@0.0.2560.1400" timestamp="1631163892365" />
+    <state width="2539" height="323" key="GridCell.Tab.1.right" timestamp="1631163892365">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1260" height="321" key="GridCell.Tab.1.right/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631094143441" />
+    <state width="2539" height="323" key="GridCell.Tab.1.right/0.0.2560.1400/3840.497.1920.1040@0.0.2560.1400" timestamp="1631163892365" />
+    <state x="340" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1630908111085">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="340" y="524" key="com.intellij.ide.util.TipDialog/3840.497.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1630908111085" />
+    <state x="-2989" y="-60" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1631021627477">
+      <screen x="-3840" y="-497" width="2560" height="1400" />
+    </state>
+    <state x="-2989" y="-60" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631021627477" />
+    <state x="-3501" y="-201" width="617" height="807" key="find.popup" timestamp="1631071419503">
+      <screen x="-3840" y="-497" width="2560" height="1400" />
+    </state>
+    <state x="-3501" y="-201" width="617" height="807" key="find.popup/0.0.1920.1040/-3840.-497.2560.1400@-3840.-497.2560.1400" timestamp="1631071419503" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
